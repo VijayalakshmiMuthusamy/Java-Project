@@ -5,6 +5,9 @@ public class Sample
 	short a=2019,b=2020;
 	
 	
+	
+	
+	
 	byte k=10,l=20;int m=l/k;
 	int g=100,h=200;
 	double d= a*b;
